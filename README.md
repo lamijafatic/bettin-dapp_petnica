@@ -1,1 +1,1 @@
-# bettin-dapp_petnica
+# betting-dapp_petnica
